@@ -39,6 +39,13 @@ A robust library management system designed to streamline the borrowing and retu
 2. **Admins**: Stores administrator credentials and details.  
 3. **Books**: Stores information about books, including title, author, category, and availability.  
 4. **Loans**: Tracks book loans, including issue date, due date, return date, and fines.  
+### Project Output
+![ERDiagram](https://github.com/user-attachments/assets/b44cc6c1-4058-49ca-b728-e6462d37786f)
+![MAPPING](https://github.com/user-attachments/assets/af639feb-9742-4804-a03e-6434c3dee666)
+![LOGIN PAGE](https://github.com/user-attachments/assets/9d144243-bae8-4fa3-9a88-ad44bb127763)
+![ADMIN DASHBOARD](https://github.com/user-attachments/assets/230fa665-33ae-4ec3-9d83-062bb11caf21)
+![USER DASHBOARD](https://github.com/user-attachments/assets/4a4d771c-86fa-4ed2-98c4-aece98605138)
+
 
 ### Relationships  
 - **Admins to Members**: One-to-many relationship, where each member is assigned to a manager (admin).  
