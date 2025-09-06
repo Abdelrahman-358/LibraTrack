@@ -1,6 +1,6 @@
 # LibraTrack: A Library Management System  
 
-A robust library management system designed to streamline the borrowing and returning of books, manage member and admin accounts, and maintain accurate records of books and loans. Built using Java for the frontend and SQL Server as the backend, this project is perfect for managing libraries of varying sizes.  
+A library management system designed to streamline the borrowing and returning of books, manage member and admin accounts, and maintain accurate records of books and loans. Built using Java for the frontend and SQL Server as the backend.  
 
 ---
 
@@ -14,7 +14,6 @@ A robust library management system designed to streamline the borrowing and retu
 - **Manage Books**: Add, update, or remove books from the system.  
 - **Manage Members**: Register new members and view their borrowing history.  
 - **Overdue Tracking**: Identify overdue books and fines for efficient management.  
-- **Audit Trail**: Track all borrowing and returning activities.  
 
 ### Additional Features  
 - **Dynamic Fine Calculation**: Automatically calculates fines for overdue returns based on days late.  
@@ -58,4 +57,4 @@ A robust library management system designed to streamline the borrowing and retu
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Abdelrahman-358/LibraTrack
